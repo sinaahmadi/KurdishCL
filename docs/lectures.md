@@ -26,8 +26,8 @@ This page contains link to the lectures I give throughout the semester. The slid
 
 ### 1. Introduction / دەسپێک
 <ul id="archive">
-  <li><i class="fas fa-file-pdf"></i> Slides (<a href="" target="_blank">PDF</a>)</li>
-  <li><i class="fas fa-file-pdf"></i> Handout (<a href="" target="_blank">PDF</a>)</li>
+  <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/lectures/lecture_1_introduction.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/lectures/lecture_1_introduction_handout.pdf" target="_blank">PDF</a>)</li>
   <li><i class="fab fa-github"></i> <strike>Code (github)</strike></li>
 </ul>
 
