@@ -1,6 +1,5 @@
 # Kurdish Computational Linguistics Course
 ### Sina Ahmadi (ahmadi.sina@outlook.com)
-=======================================================
 
 This course provides an overview of the field of computational linguistics. The goal of the field is to build technologies that will allow machines to understand human langauges. Applications include spell checking, machine translation, morphological analysis and syntactic parsing. <br>
 
