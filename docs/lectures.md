@@ -24,11 +24,19 @@ permalink: /lectures/
 
 This page contains link to the lectures I give throughout the semester. The slides in their expanded form are available in PDF. Also, the handout of the lecture is available in PDF; the handout is bascially the slides without any effects (therefore easier to be read and printed). If the lecture has additional files, it is also provided. 
 
+All the videos are available on [YouTube](https://www.youtube.com/watch?v=cBuT4O4V2bk&list=PLkLLH3XpCIcHf6G0ZeKsq6558aPPr3UeV).
+
+
+### 0. Why this course? / بۆ ئەم خولە؟
+<ul id="archive">
+  <li><i class="fab fa-youtube"></i> <a href="https://youtu.be/cBuT4O4V2bk" target="_blank">Video</a></li>
+</ul>
 ### 1. Introduction / دەسپێک
 <ul id="archive">
   <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/lectures/lecture_1_introduction.pdf" target="_blank">PDF</a>)</li>
   <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/lectures/lecture_1_introduction_handout.pdf" target="_blank">PDF</a>)</li>
   <li><i class="fab fa-github"></i> <strike>Code (github)</strike></li>
+  <li><i class="fab fa-youtube"></i> <a href="https://youtu.be/-E9c8VG-fB4" target="_blank">Video</a></li>
 </ul>
 
 <!-- <ul id="archive">
