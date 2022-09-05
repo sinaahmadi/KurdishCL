@@ -2,7 +2,7 @@
 title: Kurdish Computational Linguistics Course
 subtitle: Natural Language Processing and Computational Linguistics in Kurdish
 #description: |
-baseurl: "/KurdishCL/" # the subpath of your site, e.g. /blog/
+baseurl: "/KurdishCL" # the subpath of your site, e.g. /blog/
 url: "https://sinaahmadi.github.io" # the base hostname & protocol for your site
 syllabus: ""
 githubdir: "sinaahmadi/KurdishCL "

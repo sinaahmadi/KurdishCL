@@ -19,7 +19,7 @@ The following books are recommended for this course:
 	- Corpus linguistics: A guide to the methodology ([link](https://langsci-press.org/catalog/book/148))
 
 ### Kurdish Linguistics
-- Sorani & Kurmanji reference grammars by W. M. Thackston ([PDF Sorani](Thackston_Sorani.pdf) / [PDF Kurmanji](Thackston_Kurmanji.pdf))
+- Sorani & Kurmanji reference grammars by W. M. Thackston ([PDF Sorani](https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/labs/Thackston_Sorani.pdf) / [PDF Kurmanji](https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/labs/Thackston_Kurmanji.pdf))
 - Kurdish dialect studies by Mackenzie, D. N. ([PDF](https://archive.org/details/in.gov.ignca.18774/page/n19/mode/2up))
 
 ### Computational Linguistics and Natural Language Processing 
