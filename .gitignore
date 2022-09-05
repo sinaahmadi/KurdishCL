@@ -36,5 +36,7 @@ Temporary Items
 *.icloud
 
 .jekyll-cache/
+
+hidden/
 # End of https://www.toptal.com/developers/gitignore/api/macos
 

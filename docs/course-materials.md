@@ -11,12 +11,15 @@ permalink: /course-materials/
 
 The following books are recommended for this course:
 
-#### Linguistics 
+### Linguistics 
+- Free books at Language Science Press ([link](https://langsci-press.org/))
 - Understanding Language book series of Routledge ([link](https://www.routledge.com/Understanding-Language/book-series/ULAN?pd=published))
 	- Understanding morphology ([PDF](https://arkitecturadellenguaje.files.wordpress.com/2012/12/understanding-morphology-second-edition.pdf))
+- Corpus linguistics
+	- Corpus linguistics: A guide to the methodology ([link](https://langsci-press.org/catalog/book/148))
 
 ### Kurdish Linguistics
-- Sorani & Kurmanji reference grammars by W. M. Thackston ([PDF](https://web.archive.org/web/20170522042119/http://www.fas.harvard.edu/~iranian/))
+- Sorani & Kurmanji reference grammars by W. M. Thackston ([PDF Sorani](Thackston_Sorani.pdf) / [PDF Kurmanji](Thackston_Kurmanji.pdf))
 - Kurdish dialect studies by Mackenzie, D. N. ([PDF](https://archive.org/details/in.gov.ignca.18774/page/n19/mode/2up))
 
 ### Computational Linguistics and Natural Language Processing 

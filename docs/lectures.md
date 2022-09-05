@@ -35,8 +35,15 @@ All the videos are available on [YouTube](https://www.youtube.com/watch?v=cBuT4O
 <ul id="archive">
   <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/lectures/lecture_1_introduction.pdf" target="_blank">PDF</a>)</li>
   <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/lectures/lecture_1_introduction_handout.pdf" target="_blank">PDF</a>)</li>
-  <li><i class="fab fa-github"></i> <strike>Code (github)</strike></li>
   <li><i class="fab fa-youtube"></i> <a href="https://youtu.be/-E9c8VG-fB4" target="_blank">Video</a></li>
+</ul>
+
+### 2. Language and Linguistic Resources / سەرچاوە زمانەوانییەکان
+<ul id="archive">
+  <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/lectures/lecture_2_introduction.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/lectures/lecture_2_introduction_handout.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fab fa-github"></i> Lab (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/labs/lab_2.pdf" target="_blank">description</a>) | (<a href="https://github.com/sinaahmadi/KurdishCL/raw/master/labs/Corpus-KurdishCL.zip" target="_blank">data</a>)</li>
+  <li><i class="fab fa-youtube"></i> <a href="" target="_blank">Video</a></li>
 </ul>
 
 <!-- <ul id="archive">
