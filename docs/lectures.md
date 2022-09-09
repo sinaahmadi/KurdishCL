@@ -42,9 +42,20 @@ All the videos are available on [YouTube](https://www.youtube.com/watch?v=cBuT4O
 <ul id="archive">
   <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/lectures/lecture_2.pdf" target="_blank">PDF</a>)</li>
   <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/lectures/lecture_2_handout.pdf" target="_blank">PDF</a>)</li>
-  <li><i class="fab fa-github"></i> Lab (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/labs/lab_2.pdf" target="_blank">description</a>) | (<a href="https://github.com/sinaahmadi/KurdishCL/blob/master/labs/Corpus-KurdishCL.zip?raw=true" target="_blank">data</a>)</li>
-  <li><i class="fab fa-youtube"></i> <a href="" target="_blank">Video</a></li>
+  <li><i class="fab fa-github"></i> Lab (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/labs/lab_2.pdf" target="_blank">description</a>) | (<a href="https://github.com/sinaahmadi/KurdishCL/blob/master/labs/Corpus-KurdishCL.zip?raw=true" target="_blank">data</a> | <a href="https://youtu.be/ufQprXPO1kA" target="_blank">Video</a>) </li>
+  <li><i class="fab fa-youtube"></i> <a href="https://youtu.be/ufQprXPO1kA" target="_blank">Video</a></li>
 </ul>
+
+----
+
+### Related content: Language Technology and Kurdish Languages: What has been done? What should be done? / دۆخی ئێستای تەکنۆلۆژیای زمان بۆ کوردی: چ کراوە و چ بکرێ؟
+<ul id="archive">
+  <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://sinaahmadi.github.io/docs/KIT_Sina.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://sinaahmadi.github.io/docs/KIT_Sina_handout.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=f6uMQkXOfFY" target="_blank">Video</a></li>
+</ul>
+
+
 
 <!-- <ul id="archive">
 {% for lectures in site.data.lectures %}
