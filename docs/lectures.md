@@ -46,6 +46,13 @@ All the videos are available on [YouTube](https://www.youtube.com/watch?v=cBuT4O
   <li><i class="fab fa-youtube"></i> <a href="https://youtu.be/ufQprXPO1kA" target="_blank">Video</a></li>
 </ul>
 
+### 3. Computational Morphology (Part 1) / ئانالیزی مۆرفۆلۆژی (بەشی یەک)
+<ul id="archive">
+  <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/lectures/lecture_3-1.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/lectures/lecture_3-1_handout.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fab fa-youtube"></i> <a href="" target="_blank">Video</a></li>
+</ul>
+
 
 ### Related content: Language Technology and Kurdish Languages: What has been done? What should be done? / دۆخی ئێستای تەکنۆلۆژیای زمان بۆ کوردی: چ کراوە و چ بکرێ؟
 <ul id="archive">
