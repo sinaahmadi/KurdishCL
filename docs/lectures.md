@@ -50,7 +50,7 @@ All the videos are available on [YouTube](https://www.youtube.com/watch?v=cBuT4O
 <ul id="archive">
   <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/lectures/lecture_3-1.pdf" target="_blank">PDF</a>)</li>
   <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/lectures/lecture_3-1_handout.pdf" target="_blank">PDF</a>)</li>
-  <li><i class="fab fa-youtube"></i> <a href="" target="_blank">Video</a></li>
+  <li><i class="fab fa-youtube"></i> <a href="https://youtu.be/C0zoPpqCsaY" target="_blank">Video</a></li>
 </ul>
 
 
