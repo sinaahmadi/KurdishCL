@@ -53,6 +53,13 @@ All the videos are available on [YouTube](https://www.youtube.com/watch?v=cBuT4O
   <li><i class="fab fa-youtube"></i> <a href="https://youtu.be/C0zoPpqCsaY" target="_blank">Video</a></li>
 </ul>
 
+### 4. Tokenization / لەتکردنی تۆکن
+<ul id="archive">
+  <li><i class="fas fa-file-pdf"></i> Slides (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/lectures/lecture_4.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fas fa-file-pdf"></i> Handout (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/lectures/lecture_4_handout.pdf" target="_blank">PDF</a>)</li>
+  <li><i class="fab fa-github"></i> Lab (<a href="https://raw.githubusercontent.com/sinaahmadi/KurdishCL/master/labs/meta-characters_regex_Kurdish.pdf" target="_blank">Meta characters in regular expression (Kurdish)</a> | <a href="" target="_blank">Video</a>) </li>
+  <li><i class="fab fa-youtube"></i> <a href="https://youtu.be/0zQHzgpACW4?si=WG1P2_ZUmMszoij_" target="_blank">Video</a></li>
+</ul>
 
 ### Related content: Language Technology and Kurdish Languages: What has been done? What should be done? / دۆخی ئێستای تەکنۆلۆژیای زمان بۆ کوردی: چ کراوە و چ بکرێ؟
 <ul id="archive">
